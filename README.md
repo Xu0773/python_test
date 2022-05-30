@@ -1,7 +1,7 @@
 # python_test
 
 主要是从网站中寻找想要的数据，然后提取出来。
-第二个角色数据重新包装。
+第二是将文本信息数据提取转换成特定的格式。
 
 ##详情
 - [test1.1_htm](https://github.com/Xu0773/python_test/edit/main/test1.1_htm.py)-将网站保存为html
